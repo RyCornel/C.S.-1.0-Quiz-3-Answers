@@ -1,7 +1,6 @@
-
+f = open("Sports-List.txt", "x")
 
 sports = ["basketball", "softball", "football", "baseball", "track"]  
-
 
 f = open("Sports-List.txt", "w+")
 
