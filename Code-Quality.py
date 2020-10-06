@@ -1,3 +1,5 @@
+#Q4 Code Quality
+
 # Function used to sum up integers in a list
 
 def sum_the_list(integer_list):
