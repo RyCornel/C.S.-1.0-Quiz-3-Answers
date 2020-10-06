@@ -14,4 +14,8 @@ print(hats)
 #Part 3.
 hats["Snapback"] = 10 + 1
 print(hats)
+
+#Part 4.
+hats.pop("Weird Top Hat")
+print(hats)
     
