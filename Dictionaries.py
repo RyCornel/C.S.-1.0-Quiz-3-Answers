@@ -10,3 +10,8 @@ hats = {
 #Part 2.
 hats["Weird Top Hat"] = 1
 print(hats)
+
+#Part 3.
+hats["Snapback"] = 10 + 1
+print(hats)
+    
