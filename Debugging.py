@@ -26,6 +26,7 @@ def get_average(num_list):
         sum += num_list[i]
     return len(num_list) / sum
 
+# Line 30 Below needs two closing parantheses at the end of the print statement. 
 print(get_average([1,3,5,6,7]
 
 
