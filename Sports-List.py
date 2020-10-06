@@ -1,7 +1,7 @@
 #Q2 File I/O
 
 # Part 1. 
-f = open("Sports-List.txt", "w")
+f = open("Sports-List.txt", "x")
 
 sports = ["basketball", "softball", "football", "baseball", "track"]  
 
